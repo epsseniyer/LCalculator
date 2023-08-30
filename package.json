@@ -13,6 +13,6 @@
     "convert-string-to-number": "^1.0.3",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
-    "terminal-kit": "^2.5.1"
+    "terminal-kit": "^3.0.0"
   }
 }
